@@ -5,7 +5,7 @@ Note: to compile the code use the Nokia 5110 library from: http://www.rinkydinke
 
 Edit the code to change the Callsign to your own and you can also edit to change the pitch to what you'd like. 
 
-Here's a short video of a previous build. I gave away the one with the Arduino nano and larget switch:
+Here's a short video of a previous build. I gave away the one with the Arduino nano and larger switch:
 https://youtu.be/sHD-tk2wjug
 
 
